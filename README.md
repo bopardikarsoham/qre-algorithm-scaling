@@ -1,6 +1,6 @@
 # Quantum Resource Estimation — Comparative Study
 
-A systematic quantum resource estimation (QRE) study across four algorithm families using the **Microsoft Azure Quantum Resource Estimator**. Circuits are implemented in **Q#** and **Qiskit (Python)**, with resource analysis across two physical qubit models.
+A systematic quantum resource estimation (QRE) study across four algorithm families using the **Microsoft Azure Quantum Resource Estimator**. Circuits are implemented in **Q#**, with resource analysis across two physical qubit models.
 
 ---
 
